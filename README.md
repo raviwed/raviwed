@@ -18,10 +18,10 @@
 - 👨‍💻 I’m currently learning HTML , CSS , Javascript, React , Typescript , Redux  at Masai School.
 - 💬 Ask me about HTML , CSS , Javascript , React
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 👨‍💻 This is [My Portfolio](https://revatijunghare.github.io/)
+- 👨‍💻 This is [My Portfolio](https://raviwed.github.io/)
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1ZGHXcDJUXLPgGVeSVCb8BYUAK_Cs_UTk/view?usp=sharing)
-- 📫 How to reach me: ...jungharerevati804@gmail.com
+-  📄 This is [My Resume](https://drive.google.com/file/d/14qkzy8oNHP15Q6W_PtKxunfrv7gN6sdA/view?usp=share_link)
+- 📫 How to reach me: ...ravitejabtech964@gmail.com
 
 
 
@@ -37,13 +37,13 @@
 
   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary>
 <!--   <br/> -->
-<!--    <a href="https://github.com/RevatiJunghare"><img alt="Revati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RevatiJunghare&custom_title=Revati's%20Contribution%20Graph&theme=react-dark" /></a>
+<!--    <a href="https://github.com/Raviwed"><img alt="raviteja" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raviwed&custom_title=Raviteja's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/> -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RevatiJunghare" alt="Revati" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raviwed" alt="Raviwed" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -59,11 +59,11 @@
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RevatiJunghare&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RevatiJunghare&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RevatiJunghare&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RevatiJunghare&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RevatiJunghare&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raviwed&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raviwed&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raviwed&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raviwed&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raviwed&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
@@ -183,8 +183,8 @@
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=RevatiJunghare&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RevatiJunghare&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=Raviwed&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Raviwed&theme=algolia" />
 </p>
 
 
@@ -193,13 +193,13 @@
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/revati-junghare-612346179/"></a>
+  <a href="https://www.linkedin.com/feed/"></a>
 
 </p>
 
 ## ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=RevatiJunghare&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=Raviwed&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
 <h2 align='left'>Thank You ❤</h2>
